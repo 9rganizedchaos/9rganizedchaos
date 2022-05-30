@@ -5,8 +5,8 @@
 ° :.　 . • ○ ° ★　 .　 *　.
 ★ ° . .　　　　.　☾ °☆　 . * ● ¸ .
 ∩ │◥███◣ ╱◥███◣        
-╱◥◣ ◥████◣▓∩▓│∩ ║      I'm a junior developer.
-│╱◥█◣║∩∩∩ ║◥█▓ ▓█◣     Rather than making a big goal, I'll just write one more line of code.
+╱◥◣ ◥████◣▓∩▓│∩ ║      
+│╱◥█◣║∩∩∩ ║◥█▓ ▓█◣     
 ││∩│ ▓ ║∩田│║▓ ▓ ▓∩ ║   Thank you for visiting my Github :)
 
 ```
