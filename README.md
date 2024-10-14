@@ -14,12 +14,7 @@
 
 ### Contact
 
-📩 *Email*: 9rganizedchaos@gmail.com | [✍🏼  *Blog*](https://velog.io/@9rganizedchaos) | [🎥 *YouTube*](https://www.youtube.com/channel/UC9t_pFspie5VR0qjkw14G3g/videos)
-
-### My Projects
-- 🔮 [Be MBTIous](https://be.mbtious.net): Solo Side Project
-- 🐶 [BINGO](https://ibingo.link): Bootcamp Final Team Project 
-- 📝 [VIMO](https://vimo.link): Bootcamp First Team Project
+📩 *Email*: 9rganizedchaos@gmail.com | [✍🏼  *Blog*](https://velog.io/@9rganizedchaos)
 
 ### My Github Stats & Most Used Languages
 
